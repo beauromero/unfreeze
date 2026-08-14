@@ -1,12 +1,12 @@
 # Unfreeze
 
-Interval timer PWA for frozen-shoulder stretching routines.
+Interval timer PWA for stretching routines.
 
 Live at: https://beauromero.github.io/unfreeze
 
 ## What it does
 
-- Guides you through a timed sequence of shoulder stretches with hold/rest intervals
+- Guides you through a timed sequence of stretches with hold/rest intervals
 - Works offline and installs to your phone's home screen (PWA with service worker)
 - One-thumb, glanceable UI designed for use mid-stretch
 
