@@ -1,4 +1,4 @@
-const CACHE = "unfreeze-v2";
+const CACHE = "unfreeze-v3";
 const ASSETS = [
   "./",
   "./index.html",
